@@ -1,0 +1,17 @@
+body{
+   background:url(../imagenes/6.jpg);
+   background-attachment:fixed;
+   background-repeat:no-repeat;
+   background-size:100%;
+   padding:150px 150px;
+}
+
+<style type="text/css">
+
+#Login{
+ width:400px;
+ height:160px;
+ background-color:#BDBDBD;
+ vertical-align:baseline;
+ float:center;
+}
